@@ -1,8 +1,8 @@
-% ======================================
-disp('======================================');
-disp('Programmer : Taybeh Salehnia');
-disp('Email      : salehnia.taybeh@gmail.com');
-disp('======================================');
+
+
+Programmer : Taybeh Salehnia
+Email      : salehnia.taybeh@gmail.com
+
 
 disp('This file implements the G_ALIDAEI_O algorithm and 13 other metaheuristic algorithms:');
 disp('G_AliDaei_O -- Glyptothorax AliDaeii Optimizer Algorithm');
