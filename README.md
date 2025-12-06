@@ -22,5 +22,5 @@ disp('EO          -- Equilibrium Optimizer');
 disp('======================================');
 
 % IMPORTANT:
-% Open and run the MAIN body first.
-% All functions related to the listed algorithms are contained inside this same .m file.
+% Open and run the MAIN.m body first.
+% All functions related to the listed algorithms are contained inside this MAIN.m file.
